@@ -1,0 +1,6 @@
+C:\Users\w401\Desktop\fuction510\fuction510\bin\Debug\fuction510.exe.config
+C:\Users\w401\Desktop\fuction510\fuction510\bin\Debug\fuction510.exe
+C:\Users\w401\Desktop\fuction510\fuction510\bin\Debug\fuction510.pdb
+C:\Users\w401\Desktop\fuction510\fuction510\obj\Debug\fuction510.csprojResolveAssemblyReference.cache
+C:\Users\w401\Desktop\fuction510\fuction510\obj\Debug\fuction510.exe
+C:\Users\w401\Desktop\fuction510\fuction510\obj\Debug\fuction510.pdb
